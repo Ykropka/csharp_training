@@ -1,5 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
+using OpenQA.Selenium;
 
 namespace caharp_training
 {
@@ -9,6 +10,7 @@ namespace caharp_training
         [TestMethod]
         public void TestMethod1()
         {
+            
         }
     }
 }
