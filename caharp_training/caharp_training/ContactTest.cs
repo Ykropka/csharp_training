@@ -5,7 +5,7 @@ using OpenQA.Selenium;
 namespace caharp_training
 {
     [TestClass]
-    public class UnitTest1
+    public class ContactTest
     {
         [TestMethod]
         public void TestMethod1()
